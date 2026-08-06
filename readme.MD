@@ -24,17 +24,17 @@ mkdir -p ~/.themes
 cp -r Floating-glass-D ~/.themes/
 ```
 
-Alternatively, move it to `/usr/share/themes/` to make it available system-wide (requires `sudo`).
+If you want to make the theme system-wide move it to `/usr/share/themes/` with sudo rights.
 
 ### 2. Apply the theme
 
-Open **System Settings → Themes**, then apply the following:
+Open **System Settings -> Themes**, then apply the following:
 
 - **Desktop:** `Floating-glass-D`
 - **Applications (GTK):** `Floating-glass-D`
 - **Window borders:** `Floating-glass-D`
 
-Set the following additional themes:
+For the optimal and best icon and pointer theme use these values:
 
 - **Icons:** `Mint-Y`
 - **Pointer:** `DMZ-Black`
