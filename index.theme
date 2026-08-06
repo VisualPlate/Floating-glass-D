@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Floating-glass-D
+Comment=Dark and modern glass-like theme with shadows to highlight and make its content popup
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+CinnamonTheme=Floating-glass-D
+GtkTheme=Floating-glass-D
+MetacityTheme=Floating-glass-D
+IconTheme=Mint-Y
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close
